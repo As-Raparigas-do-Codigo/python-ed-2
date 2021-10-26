@@ -2,7 +2,6 @@
 
 ![Python_Workshop](img/2nd_Ed_Workshops_Python.png)
 
-
 ---
 ## Planeamento
 
@@ -15,7 +14,6 @@
 |S05 | Funções. Passagem de parâmetros.<br>Módulos. Utilização do módulo math.|
 |S06 | Tipos de dados compostos: strings, listas, dicionários, tuplos e conjuntos.|
 |S07 | Operações em ficheiros de texto (leitura + escrita).<br>Armazenamento de dados em formato CSV.<br>Tratamento de exceções.|
-|
 
 ---
 ## Bibliografia
