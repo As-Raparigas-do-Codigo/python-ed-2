@@ -7,7 +7,7 @@
 
 | Sessão | Tópicos |
 | ------------- |-------------|
-| S01    | Sessão de abertura. Introdução ao curso.<br>Formato e modo de funcionamento.<br>Instalação das ferramentas necessárias para o curso (PyCharm + Python 3). Preparação do ambiente para acompanhamento das aulas em live coding.| 
+| S01    | Sessão de abertura. Introdução ao curso.<br>Formato e modo de funcionamento.<br>Preparação do ambiente para acompanhamento das aulas em live coding.| 
 | S02      | Interação básica com o utilizador (print + input).<br>Hello World. Tipos de dados simples.<br>Variáveis. Expressões e operadores.| 
 | S03 |Fluxo de um programa. Instruções de controlo: condições (if). |   
 |S04 | Instruções de controlo: ciclos (for + while).|
