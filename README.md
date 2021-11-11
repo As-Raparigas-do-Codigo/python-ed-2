@@ -17,5 +17,5 @@
 
 ---
 ## Bibliografia
-- <b>Livro de referência:</b> How to Think Like a Computer Scientist — Learning with Python 3 (Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers). [Disponível gratuitamente aqui.](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf)
+- <b>Livro de referência:</b> How to Think Like a Computer Scientist — Learning with Python 3 (Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers). [[PDF - EN]](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) [[Versão Online - Tradução PT/BR]](https://panda.ime.usp.br/panda/static/pensepy/index.html)
 
