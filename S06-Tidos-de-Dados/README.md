@@ -7,4 +7,4 @@
 * Conjuntos
 * Strings
 
-**Link para o Google Colab: https://colab.research.google.com/drive/1h3seN7x2ycqd2J0Yi_4iOmyh0dum0Hma**
+**Link para o Google Colab: https://colab.research.google.com/drive/1zMdUIAu0hkriFthq470q9Krn24hpPUht?usp=sharing#scrollTo=fSm-YbnoOaKv**
