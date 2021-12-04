@@ -1,8 +1,7 @@
 ## **[ARdC] Introdução à Programação com Python (2ª Ed.) - Aula 4**
 
 **Nesta 4ª aula vamos abordar os seguintes tópicos:**
-* Funções
-* Passagem de parâmetros.
+* Funções: Passagem de parâmetros.
 * Módulos. Utilização do módulo math.
 
 
