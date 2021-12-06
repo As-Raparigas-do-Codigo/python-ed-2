@@ -1,6 +1,6 @@
-## **[ARdC] Introdução à Programação com Python (2ª Ed.) - Aula 3**
+# S03 - Instruções de controlo: ciclos
 
-**Nesta 3ª aula vamos abordar os seguintes tópicos:**
+**Tópicos:**
 *   Iteração
 *   Ciclo While
 *   Ciclos Infinitos

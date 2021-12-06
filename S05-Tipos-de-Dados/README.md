@@ -1,6 +1,6 @@
-## **[ARdC] Introdução à Programação com Python (2ª Ed.) - Aula 5**
+# S05 - Tipos de Dados
 
-**Nesta 5ª aula vamos abordar os seguintes tópicos:**
+**Tópicos:**
 * Tuplos
 * Listas
 * Dicionários

@@ -1,6 +1,6 @@
-## **[aRdC] Introdução à Programação com Python (2ª Ed.) - Aula 3**
+# S02 - Fluxo de um programa
 
-**Nesta aula vamos abordar os seguintes tópicos:**
+**Tópicos:**
 *   Relembrar Operadores Lógicos e Expressões Booleanas.
 *   Instruções condicionais: if, else e elif.
 *   Condicionais encadeados e aninhados.
