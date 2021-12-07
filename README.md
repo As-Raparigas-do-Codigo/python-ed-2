@@ -11,7 +11,7 @@ As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
 **Canal no Discord:** [#python-edição-2](https://discord.com/channels/755197277093756998/900085157720125501)
 
-### Equipa de instrutores
+**Equipa de instrutores:**
 
 - Ricardo Pereira
 - Joana Lopes
@@ -24,13 +24,13 @@ As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 
 | Sessão | Data  | Tópicos |
 | ------ |  ----- | -------------|
-| S00 | 30 Out | Sessão de abertura. Introdução ao curso.<br>Formato e modo de funcionamento.<br>Preparação do ambiente para acompanhamento das aulas em live coding.| 
-| S01 | 6 Nov | Interação básica com o utilizador (print + input).<br>Hello World. Tipos de dados simples.<br>Variáveis. Expressões e operadores.| 
-| S02 | 13 Nov |Fluxo de um programa. Instruções de controlo: condições (if). |   
-| S03 | 20 Nov | Instruções de controlo: ciclos (for + while).|
-| S04 | 27 Nov | Funções. Passagem de parâmetros.<br>Módulos. Utilização do módulo math.|
-| S05 | 4 Dez | Tipos de dados compostos: strings, listas, dicionários, tuplos e conjuntos.|
-| S06 | 11 Dez | Operações em ficheiros de texto (leitura + escrita).<br>Armazenamento de dados em formato CSV.<br>Tratamento de exceções.|
+| [S00](/S00-Sessão-Abertura) | 30 Out | Sessão de abertura. Introdução ao curso.<br>Formato e modo de funcionamento.<br>Preparação do ambiente para acompanhamento das aulas em live coding.| 
+| [S01](/S01-Variáveis-Expressões-Operadores) | 6 Nov | Interação básica com o utilizador (print + input).<br>Hello World. Tipos de dados simples.<br>Variáveis. Expressões e operadores.| 
+| [S02](/S02-Fluxo-de-um-Programa) | 13 Nov |Fluxo de um programa. Instruções de controlo: condições (if). |   
+| [S03](/S03-Instruções-de-Controlo) | 20 Nov | Instruções de controlo: ciclos (for + while).|
+| [S04](/S04-Funções) | 27 Nov | Funções. Passagem de parâmetros.<br>Módulos. Utilização do módulo math.|
+| [S05](/S05-Tipos-de-Dados) | 4 Dez | Tipos de dados compostos: strings, listas, dicionários, tuplos e conjuntos.|
+| [S06](/S06-Operacoes-em-Ficheiros) | 11 Dez | Operações em ficheiros de texto (leitura + escrita).<br>Armazenamento de dados em formato CSV.<br>Tratamento de exceções.|
 
 ---
 ## Bibliografia
