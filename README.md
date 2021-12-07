@@ -36,4 +36,6 @@ As sessões serão todos os Sábados das **10h às 12h** (2h) e feitos via Zoom.
 ## Bibliografia
 
 - <b>Livro de referência:</b> How to Think Like a Computer Scientist — Learning with Python 3 (Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers). [[PDF - EN]](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) [[Versão Online - Tradução PT/BR]](https://panda.ime.usp.br/panda/static/pensepy/index.html)
+- Website RealPython: https://realpython.com/
+
 

@@ -1,4 +1,4 @@
-# S01 - Interação básica com o utilizador
+# 🐍 S01 - Interação básica com o utilizador
 
 **Tópicos:**
 * Interação básica com o utilizador (print + input). Hello World.

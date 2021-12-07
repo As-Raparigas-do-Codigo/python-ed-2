@@ -1,4 +1,4 @@
-# S06 - Operações em ficheiros de texto
+# 🐍 S06 - Operações em ficheiros de texto
 
 **Tópicos:**
 * Operações em ficheiros de texto (leitura + escrita)

@@ -1,4 +1,4 @@
-# S02 - Fluxo de um programa
+# 🐍 S02 - Fluxo de um programa
 
 **Tópicos:**
 *   Relembrar Operadores Lógicos e Expressões Booleanas.

@@ -1,4 +1,4 @@
-# S04 - Funções e Módulos
+# 🐍 S04 - Funções e Módulos
 
 **Tópicos:**
 * Funções: Passagem de parâmetros.

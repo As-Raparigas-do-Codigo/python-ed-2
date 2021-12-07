@@ -1,4 +1,4 @@
-# S01 - Sessão de Abertura
+# 🐍 S00 - Sessão de Abertura
 
 Bem-vinda à abertura dos Workshops de Introdução à linguagem de programação Python! 👋
 

@@ -1,4 +1,4 @@
-# S05 - Tipos de Dados
+# 🐍 S05 - Tipos de Dados
 
 **Tópicos:**
 * Tuplos
