@@ -5,4 +5,4 @@
 * Armazenamento de dados em formato CSV
 * Tratamento de exceções
 
-**Link para o Google Colab:** #TODO
+**Link para o Google Colab:** https://colab.research.google.com/drive/1txDcGrDZKEZpM3q95a03FqMS4Y-9s4Fl
